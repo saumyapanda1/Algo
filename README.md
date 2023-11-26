@@ -1,4 +1,4 @@
 # Algo
 AlgoSol
 
-Author: Saumya Panda
+Author: Saumya Prakash Panda
